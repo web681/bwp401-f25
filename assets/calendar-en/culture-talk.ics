@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Multaqa//BWP401//AR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:culture-talk@multaqa.example
+DTSTAMP:20261030T000000Z
+DTSTART:20261103T140000Z
+DTEND:20261103T160000Z
+SUMMARY:Stories that connect us: the reading circle
+LOCATION:Damascus
+DESCRIPTION:A fictional BWP401 project event, not an official appointment
+ .
+END:VEVENT
+END:VCALENDAR
