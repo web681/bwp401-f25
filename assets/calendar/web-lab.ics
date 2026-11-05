@@ -1,15 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Multaqa//BWP401//AR
-CALSCALE:GREGORIAN
+PRODID:-//University Events//AR
 BEGIN:VEVENT
-UID:web-lab@multaqa.example
-DTSTAMP:20261030T000000Z
+UID:multaqa-simple-web-lab-2026@example.com
+DTSTAMP:20261106T090000Z
 DTSTART:20261102T130000Z
 DTEND:20261102T150000Z
 SUMMARY:من الفكرة إلى أول صفحة ويب
 LOCATION:عبر الإنترنت
-DESCRIPTION:فعالية تجريبية ضمن مشروع BWP401 وليس
- ت موعدًا رسميًا.
 END:VEVENT
 END:VCALENDAR
